@@ -1,112 +1,69 @@
-# 👋 Hey, I'm Drishti!
+<div align="center">
+
+# 👋 Hi, I'm Drishti
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+I'm+Drishti;%3E+CSE+Student+%7C+Java+%7C+DSA;%3E+Exploring+Backend+Development;%3E+Building%2C+Learning%2C+Debugging...;%3E+One+commit+at+a+time." alt="Typing Animation" />
+
+</div>
+
+---
+
+## 🧠 A little about me
+
+I'm a CS student exploring the world of software development.
+
+My current focus is **Java, DSA and backend development**. I've already
+worked through **SQL and DBMS fundamentals**, and now I'm building on that
+foundation by learning how applications actually work behind the scenes.
+
+I learn best by **building things, solving problems, getting stuck,
+and figuring out why something broke.**
+
+---
+
+## 🧭 Where I'm at
+
+### ✓ Learned
+
+`SQL` · `DBMS` · `Java Fundamentals` · `OOP` · `Git & GitHub`
+
+### → Currently exploring
+
+`Java` · `DSA` · `Backend Development` · `REST APIs`
+
+### ↓ Coming next
+
+`Spring Boot` · `Advanced Java` · `Building larger backend projects`
+
+### ✦ Curious about
+
+`AI` · `Data` · `Software Systems` · `New areas of Computer Science`
+
+---
+
+## 💻 What I'm building
+
+I like turning what I learn into small projects and experiments rather
+than keeping everything inside tutorials.
+
+You'll find a mix of:
+
+- ☕ Java projects
+- 🧩 DSA practice
+- 🌐 Backend experiments
+- 🚀 Hackathon projects
+- 💡 Ideas I'm experimenting with
+
+
+---
+
+## 🔍 Currently figuring out
 
 ```text
-> whoami
+How do applications actually work behind the scenes?
 
-CSE student
-learning how software works
-building things along the way
-```
+How does data move from a user → application → database → back?
 
-### 🧠 My Learning Journey
+How do small projects become systems that can handle real users?
 
-**Learned →**
-`SQL` · `DBMS` · `Java Fundamentals` · `OOP`
-
-**Currently learning →**
-`Java` · `DSA` · `Backend Development`
-
-**Next up →**
-`REST APIs` · `Spring Boot` · `Advanced Java`
-
----
-
-### 💻 What I'm Into
-
-I'm interested in **backend development, problem solving, data, and building useful software**.
-
-I enjoy understanding what's happening behind the scenes — how applications communicate, how data is stored and processed, and how everything comes together to make a working product.
-
----
-
-### 🚀 Right Now
-
-```text
-Java       █████████████░░░
-DSA        █████████░░░░░░
-Backend    ██████░░░░░░░░░
-Spring     ░░░░░░░░░░░░░░░
-```
-
-Currently spending most of my time solving **DSA problems in Java** and moving deeper into **backend development**.
-
----
-
-### 🔭 Where I'm Heading
-
-```text
-Java
-  ↓
-DSA
-  ↓
-Backend
-  ↓
-REST APIs
-  ↓
-Spring Boot
-  ↓
-Build → Learn → Repeat
-```
-
-I'm not trying to learn everything at once.
-
-For now, I'm focused on building strong fundamentals and gradually turning what I learn into **real projects**.
-
----
-
-### 💡 Things I'm Curious About
-
-🤖 How AI is changing the way we build software
-📊 Turning data into something meaningful
-🧠 How intelligent systems actually work under the hood
-🏗️ How real-world products go from an idea to a working system
-🔍 Exploring different areas of computer science and finding what genuinely interests me
-🚀 Building things that are actually useful
-
----
-
-### 🛠️ My Current Toolkit
-
-`Java` · `SQL` · `MySQL` · `Git` · `GitHub` · `IntelliJ IDEA` · `VS Code`
-
----
-
-### 📌 A Few Things About My GitHub
-
-Most of what you'll find here is part of my learning journey:
-
-**projects → experiments → DSA → hackathons → things I broke while learning**
-
-Some are polished.
-
-Some are definitely works in progress.
-
-That's kind of the point. :)
-
----
-
-### 📊 GitHub Activity
-
-
-![Drishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishti-sahu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drishti-sahu&layout=compact&theme=tokyonight)
----
-
-### 🌱 Still figuring it out.
-
-Learning something new, building something, getting stuck, debugging it, and trying again.
-
-**One commit at a time.**
-
-`> exit_`
+And what should I build next?
