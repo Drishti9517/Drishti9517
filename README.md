@@ -1,50 +1,51 @@
 <div align="center">
 
-# 👋 Hi, I'm Drishti
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+I'm+Drishti;%3E+CSE+Student+%7C+Java+%7C+DSA;%3E+Exploring+Backend+Development;%3E+Building%2C+Learning%2C+Debugging...;%3E+One+commit+at+a+time." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+I'm+Drishti+Sahu;%3E+CS+Student;%3E+Learning+Java+%26+DSA;%3E+Exploring+Backend+Development;%3E+Building%2C+Learning%2C+Debugging...;%3E+One+commit+at+a+time." alt="Typing Animation" />
 
 </div>
 
 ---
 
-## 🧠 A little about me
+## 🧠 A Little About Me
 
-I'm a CS student exploring the world of software development.
+I'm a CS student currently exploring software development, with Java
+as my main focus.
 
-My current focus is **Java, DSA and backend development**. I've already
-worked through **SQL and DBMS fundamentals**, and now I'm building on that
-foundation by learning how applications actually work behind the scenes.
+I've worked through SQL and DBMS fundamentals and am now spending most
+of my time getting comfortable with Java, solving DSA problems, and
+learning how backend applications work.
 
-I learn best by **building things, solving problems, getting stuck,
-and figuring out why something broke.**
+I'm still exploring what area of computer science I want to go deepest
+into, so for now I'm following my curiosity and building along the way.
 
 ---
 
-## 🧭 Where I'm at
+## 🧭 My Learning Journey
 
-### ✓ Learned
+### Already Explored
 
 `SQL` · `DBMS` · `Java Fundamentals` · `OOP` · `Git & GitHub`
 
-### → Currently exploring
+### Currently Learning
 
 `Java` · `DSA` · `Backend Development` · `REST APIs`
 
-### ↓ Coming next
+### On the Horizon
 
-`Spring Boot` · `Advanced Java` · `Building larger backend projects`
+`Spring Boot` · `Advanced Java` · `More Backend Projects`
 
-### ✦ Curious about
+### Curious About
 
-`AI` · `Data` · `Software Systems` · `New areas of Computer Science`
+`AI` · `Data` · `Software Systems` · `New Areas of Computer Science`
 
 ---
 
-## 💻 What I'm building
+## 🛠️ What I'm Building
 
-I like turning what I learn into small projects and experiments rather
-than keeping everything inside tutorials.
+I don't want everything I learn to stay inside a tutorial.
+
+I like taking a concept and turning it into something I can actually
+run, test, break, and hopefully make a little better.
 
 You'll find a mix of:
 
@@ -52,18 +53,78 @@ You'll find a mix of:
 - 🧩 DSA practice
 - 🌐 Backend experiments
 - 🚀 Hackathon projects
-- 💡 Ideas I'm experimenting with
-
+- 💡 Random ideas worth building
 
 ---
 
-## 🔍 Currently figuring out
+## 🔍 Currently Exploring
 
 ```text
-How do applications actually work behind the scenes?
+Java
+ ├── DSA
+ ├── OOP & Core Concepts
+ └── Building with what I learn
 
-How does data move from a user → application → database → back?
+Backend
+ ├── REST APIs
+ ├── Databases
+ └── Spring Boot → next step
+```
 
-How do small projects become systems that can handle real users?
+---
 
-And what should I build next?
+## 💭 Things I Find Interesting
+
+How something as simple as clicking a button can trigger an entire chain
+of things happening behind the scenes.
+
+How applications talk to each other.
+
+How databases store and retrieve massive amounts of information.
+
+How an idea goes from:
+
+`"Would this even work?"`
+
+to
+
+`"Wait... it actually works."`
+
+And, of course, figuring out why something that worked five minutes ago
+suddenly doesn't.
+
+---
+
+## 🎯 What's Next
+
+Get stronger with Java.
+
+Solve harder problems.
+
+Understand backend development properly.
+
+Build projects without relying on tutorials for every step.
+
+And keep exploring the parts of computer science that make me curious.
+
+---
+
+## 🌐 Network
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-sahu-810943335)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Drishti9517)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by 👋
+
+`learn → build → break → debug → repeat`
+
+</div>
