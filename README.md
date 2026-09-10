@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+I'm+Drishti+Sahu;%3E+CS+Student;%3E+Learning+Java+%26+DSA;%3E+Exploring+Backend+Development;%3E+Building%2C+Learning%2C+Debugging...;%3E+One+commit+at+a+time." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=750&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+I'm+Drishti+Sahu;%3E+CS+Student;%3E+Learning+Java+%26+DSA;%3E+Exploring+Backend+Development;%3E+Building%2C+Learning%2C+Debugging...;%3E+One+commit+at+a+time." alt="Typing Animation" />
 
 </div>
 
@@ -109,7 +109,7 @@ And keep exploring the parts of computer science that make me curious.
 
 ---
 
-## 🌐 Network
+## 🔗 Find Me Around
 
 <div align="center">
 
