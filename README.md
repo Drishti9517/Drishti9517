@@ -6,106 +6,83 @@
 
 ---
 
-## 🧠 A Little About Me
+## 🧠 About Me
 
-I'm a CS student currently exploring software development, with Java
-as my main focus.
+I'm a Computer Science student exploring software development with **Java** as my main focus.
 
-I've worked through SQL and DBMS fundamentals and am now spending most
-of my time getting comfortable with Java, solving DSA problems, and
-learning how backend applications work.
+I've worked through **SQL and DBMS fundamentals** and am currently focused on strengthening my Java fundamentals, solving DSA problems, and understanding how backend applications work.
 
-I'm still exploring what area of computer science I want to go deepest
-into, so for now I'm following my curiosity and building along the way.
+I learn best by building — taking what I learn, turning it into projects, and figuring things out along the way.
 
 ---
 
 ## 🧭 My Learning Journey
 
-### Already Explored
+### 📚 Foundations
 
 `SQL` · `DBMS` · `Java Fundamentals` · `OOP` · `Git & GitHub`
 
-### Currently Learning
+### 🔨 Currently Learning
 
 `Java` · `DSA` · `Backend Development` · `REST APIs`
 
-### On the Horizon
+### 🚀 Next Up
 
-`Spring Boot` · `Advanced Java` · `More Backend Projects`
+`Spring Boot` · `Advanced Java` · `Backend Projects`
 
-### Curious About
+### 🔎 Exploring
 
-`AI` · `Data` · `Software Systems` · `New Areas of Computer Science`
+`AI` · `Data` · `Software Systems` · `Computer Science`
 
 ---
 
 ## 🛠️ What I'm Building
 
-I don't want everything I learn to stay inside a tutorial.
+I don't want what I learn to stay inside tutorials.
 
-I like taking a concept and turning it into something I can actually
-run, test, break, and hopefully make a little better.
+I try to turn concepts into things I can **run, test, break, debug, and improve**.
 
-You'll find a mix of:
+You'll find:
 
-- ☕ Java projects
-- 🧩 DSA practice
-- 🌐 Backend experiments
-- 🚀 Hackathon projects
-- 💡 Random ideas worth building
+* ☕ Java projects
+* 🧩 DSA practice
+* 🌐 Backend experiments
+* 🚀 Hackathon projects
+* 💡 Ideas that seemed worth building
 
 ---
 
-## 🔍 Currently Exploring
+## ⚡ Current Focus
+
+<div align="center">
+
+### ☕ Java → 🧩 DSA → 🌐 Backend → 🚀 Spring Boot
+
+</div>
 
 ```text
 Java
- ├── DSA
- ├── OOP & Core Concepts
- └── Building with what I learn
+ ├── Core Java & OOP
+ ├── DSA & Problem Solving
+ └── Building Projects
 
 Backend
  ├── REST APIs
  ├── Databases
- └── Spring Boot → next step
+ └── Spring Boot → Next Step
 ```
 
----
-
-## 💭 Things I Find Interesting
-
-How something as simple as clicking a button can trigger an entire chain
-of things happening behind the scenes.
-
-How applications talk to each other.
-
-How databases store and retrieve massive amounts of information.
-
-How an idea goes from:
-
-`"Would this even work?"`
-
-to
-
-`"Wait... it actually works."`
-
-And, of course, figuring out why something that worked five minutes ago
-suddenly doesn't.
+> **From writing code → to understanding systems → to building them.**
 
 ---
 
 ## 🎯 What's Next
 
-Get stronger with Java.
-
-Solve harder problems.
-
-Understand backend development properly.
-
-Build projects without relying on tutorials for every step.
-
-And keep exploring the parts of computer science that make me curious.
+* Get stronger with Java
+* Solve more DSA problems
+* Understand backend development properly
+* Build projects independently
+* Keep exploring different areas of Computer Science
 
 ---
 
@@ -113,9 +90,9 @@ And keep exploring the parts of computer science that make me curious.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-sahu-810943335)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/drishti-sahu-810943335)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Drishti9517)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Drishti9517)
 
 </div>
 
